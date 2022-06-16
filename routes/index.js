@@ -9,7 +9,7 @@ const indexController 	= require("./../controllers/indexController")
 
 // 2. ROUTER
 // A. HOME
-router.get("/", indexController.getHome)
+router.get("/api", indexController.getHome)
 
 
 // 3. EXPORTACIÓN
