@@ -14,6 +14,7 @@ exports.getHome = (req, res) => {
 
 	res.json({
 		"name": "Alan Ricardo Cruz Tamez",
+		"position": "Full Stack Web Developer",
 		"address": {
 			"state": "Estado de Mexico",
 			"city": "Atizapan"
