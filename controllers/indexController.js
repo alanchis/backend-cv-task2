@@ -19,7 +19,7 @@ exports.getHome = (req, res) => {
 			"state": "Estado de Mexico",
 			"city": "Atizapan"
 		},
-		"contact-info":{
+		"contactInfo":{
 			"email":"alan.cruz.tmz@gmail.com",
 			"mobile":"55-1234-1234"
 		},
