@@ -23,11 +23,12 @@ exports.getHome = (req, res) => {
 			"email":"alan.cruz.tmz@gmail.com",
 			"mobile":"55-1234-1234"
 		},
-		"summary": "Web developer with a civil engineering background.",
+		"summary": "Web developer with a civil engineering background; 6 years of experience working at construction sites with outstanding performance at my position.Thrilled about learning and coding focused on solving problems, with a proven ability to deliver high level service deliverables.",
 		"skills": [
 			"HTML",
 			"CSS",
-			"Javascript"
+			"Javascript",
+			"Project management"
 		],
 		"experience": [
 			{
